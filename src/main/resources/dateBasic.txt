@@ -1,0 +1,5 @@
+Jonas,Nainys,jonas.nainys@pardavimai.imone.lt,dsfsdg52,pardavimai
+Rolandas,Mackevicius,rolandas.mackevicius@skolos.imone.lt,retff9h8,skolos
+edve,epro,edve.epro@Accounting.imone.lt,T4IG5HAS,Accounting
+Darius,Lukosius,darius.lukosius@Development.imone.lt,BD66G1JS,Development
+Rokas,Giedraitis,rokas.giedraitis@Sales.imone.lt,MH2XBQIV,Sales
